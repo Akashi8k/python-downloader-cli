@@ -1,9 +1,6 @@
-Here’s a clean, well-structured **README.md** you can copy-paste directly. No file creation, just the text 👌
-I kept it professional but friendly, and formatted nicely for GitHub.
 
----
 
-# 🎥 YouTube Video Downloader (Python)
+# 🎥 YouTube Video Downloader (CLI edition + `.exe`)
 
 A simple, interactive **YouTube video downloader** built with **Python** and **yt-dlp**, supporting resolution selection, automatic audio merging, and bundled **FFmpeg** support (including PyInstaller compatibility).
 
@@ -160,21 +157,3 @@ Availability depends on the video.
 
 This tool is intended for **educational and personal use only**.
 Please respect YouTube’s Terms of Service and the rights of content creators.
-
----
-
-## 🙌 Credits
-
-* yt-dlp community
-* FFmpeg project
-
----
-
-If you want, I can also:
-
-* ✨ Make this README **more minimal**
-* 🧱 Add **PyInstaller build instructions**
-* 🌐 Add **screenshots / badges**
-* 🧪 Add **troubleshooting section**
-
-Just say the word 😄
